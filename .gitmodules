@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cmprskQR"]
+	path = cmprskQR
+	url = https://bitbucket.org/sdlugosz/cmprskqr
+	shallow = true
+	registered = true
 [submodule "icdGLM"]
 	path = icdGLM
 	url = https://github.com/cran/icdGLM
