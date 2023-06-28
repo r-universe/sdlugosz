@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cmprskQR"]
 	path = cmprskQR
 	url = https://bitbucket.org/sdlugosz/cmprskqr
-	shallow = true
-	registered = true
 [submodule "icdGLM"]
 	path = icdGLM
 	url = https://github.com/cran/icdGLM
-	shallow = true
-	registered = true
 [submodule "misclassGLM"]
 	path = misclassGLM
 	url = https://github.com/cran/misclassGLM
-	shallow = true
-	registered = true
 [submodule "rpart.LAD"]
 	path = rpart.LAD
 	url = https://github.com/cran/rpart.LAD
-	shallow = true
-	registered = true
